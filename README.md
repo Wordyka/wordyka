@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Wordyka Y. Nainggolan
 =============================================================================================================================================
 
-Fullstack Web Developer
+Fullstack Developer
 -----------------------
 
 I'm a final-year student studying Software Engineering Technology, and I'm really into IT development and the latest tech. I'm super dedicated to learning and always looking for chances to grow. During my studies, I joined student groups and worked on IT projects to improve my skills. I'm not just into IT; I'm also excited about exploring new areas and learning more. I'm good at staying organized and quickly picking up new ideas. I'm committed to lifelong learning and making a big impact in the tech world. Plus, I'm eager to expand my knowledge and skills in web developer, an important part of the tech industry.
